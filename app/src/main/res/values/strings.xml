@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Fasting Calendar</string>
+    <string name="title_activity_main">Muslim Fasting Tracker</string>
+    <string name="action_how_to_use">How to Use</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="hadith_of_fasting">Hadith of Fasting</string>
+    <string-array name="hadith">
+        <item>Select Hadith of Fasting</item>
+        <item>Fasting a Day and Leave the Next</item>
+        <item>Fasting Three Days Every Month</item>
+        <item>Fasting the Ninth Day of Dhul-Hijjah</item>
+        <item>Fasting the Day of \'Arafah</item>
+        <item>Fasting the Tenth Day of Muharram (Ashura)</item>
+        <item>Fasting Every Mondays and Thursday</item>
+        <item>Observe the Fasting of Six Days in Shawal</item>
+        <item>Good Characteristics are Means to Paradise</item>
+        <item>The Merit of Serving Breakfast to a Fasting Person</item>
+        <item>The Merit of Suhur</item>
+        <item>Fasting Has Many Good Merits and Advantages</item>
+        <item>Fasting and Qur\'an Will Intercede for the Servant on the Day of Judgement</item>
+    </string-array>
+
+    <string name="sun">SUN</string>
+    <string name="mon">MON</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
+    <string name="thu">THU</string>
+    <string name="fri">FRI</string>
+    <string name="sat">SAT</string>
+
+    <string name="default_zero">0</string>
+    <string name="mon_thu">Monday and Thursday : </string>
+    <string name="not_fasting">Not Fasting : </string>
+    <string name="fasting">Fasting : </string>
+
+    <string name="ramadhan">Ramadhan</string>
+    <string name="syawal">Syawal</string>
+    <string name="ayyamul_bidh">Ayyamul Bidh</string>
+    <string name="zulhijjah">Zulhijjah</string>
+    <string name="muharram">Muharram</string>
+    <string name="cannot_fasting">Cannot Fasting</string>
+    <string name="first_day_of_month">First Day of Month</string>
+    <string name="title_activity_how_to_use">HowToUseActivity</string>
+    <string name="button_back">Back</string>
+
+    <string-array name="fasting_name">
+        <item>Ramadhan</item>
+        <item>Syawal</item>
+        <item>Ayyamul Bidh</item>
+        <item>Zulhijjah</item>
+        <item>Muharram</item>
+    </string-array>
+
+    <string-array name="fasting_color">
+        <item>@drawable/color_ramadhan</item>
+        <item>@drawable/color_syawal</item>
+        <item>@drawable/color_puasa_pertengahan_bulan</item>
+        <item>@drawable/color_zulhijjah</item>
+        <item>@drawable/color_muharram</item>
+    </string-array>
+
+</resources>
